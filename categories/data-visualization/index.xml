@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization on Ingrid Arreola | Portfolio</title>
+    <link>https://ingridarreola.github.io/Portfolio/categories/data-visualization/</link>
+    <description>Recent content in Data Visualization on Ingrid Arreola | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 11:07:10 +0600</lastBuildDate><atom:link href="https://ingridarreola.github.io/Portfolio/categories/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iron Quest</title>
+      <link>https://ingridarreola.github.io/Portfolio/blog/blog-post-2/</link>
+      <pubDate>Thu, 13 Feb 2020 11:07:10 +0600</pubDate>
+      
+      <guid>https://ingridarreola.github.io/Portfolio/blog/blog-post-2/</guid>
+      <description>Iron Quest “A monthly community-led data visualization project…participants have a calendar month to source a suitable data set and then design, build, and submit a data visualization. Every viz should aim to showcase best practice &amp;amp; skill in design, storytelling &amp;amp; analysis.</description>
+    </item>
+    
+    <item>
+      <title>Iron Quest</title>
+      <link>https://ingridarreola.github.io/Portfolio/blog/blog-post-3/</link>
+      <pubDate>Mon, 06 Jan 2020 11:07:10 +0600</pubDate>
+      
+      <guid>https://ingridarreola.github.io/Portfolio/blog/blog-post-3/</guid>
+      <description>Iron Quest “A monthly community-led data visualization project…participants have a calendar month to source a suitable data set and then design, build, and submit a data visualization. Every viz should aim to showcase best practice &amp;amp; skill in design, storytelling &amp;amp; analysis.</description>
+    </item>
+    
+    <item>
+      <title>My Process for Building Data Visualizations</title>
+      <link>https://ingridarreola.github.io/Portfolio/blog/blog-post-6/</link>
+      <pubDate>Mon, 26 Aug 2019 11:07:10 +0600</pubDate>
+      
+      <guid>https://ingridarreola.github.io/Portfolio/blog/blog-post-6/</guid>
+      <description>Story by Data offers weekly challenges in the area of data. I am excited to find out about the challenges and participated for the first time this week.
+ Story by Data Weekly Challenge: &amp;ldquo;Describe your process or work-flow for creating data visualizations / dashboards&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>
