@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Ingrid Arreola | Portfolio</title>
+    <link>https://ingridarreola.github.io/Portfolio/tags/learning/</link>
+    <description>Recent content in Learning on Ingrid Arreola | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 27 Nov 2019 11:07:10 +0600</lastBuildDate><atom:link href="https://ingridarreola.github.io/Portfolio/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collab &amp; Code: Tableau</title>
+      <link>https://ingridarreola.github.io/Portfolio/blog/blog-post-4/</link>
+      <pubDate>Wed, 27 Nov 2019 11:07:10 +0600</pubDate>
+      
+      <guid>https://ingridarreola.github.io/Portfolio/blog/blog-post-4/</guid>
+      <description>I’m an amateur, a data visualization enthusiast who experiments, loves to learn, and participate in community data viz challenges. In February, I learned about Tableau and really fell in love with this tool.</description>
+    </item>
+    
+    <item>
+      <title>Strategy, Lessons, and Gratitude</title>
+      <link>https://ingridarreola.github.io/Portfolio/blog/blog-post-5/</link>
+      <pubDate>Wed, 11 Sep 2019 11:07:10 +0600</pubDate>
+      
+      <guid>https://ingridarreola.github.io/Portfolio/blog/blog-post-5/</guid>
+      <description>Each individual goes through distinct steps, decisions, and strategies to arrive at their desired career. Throughout the past few months I have reflected on the next step of my career, grown my network, and relied on my community.</description>
+    </item>
+    
+  </channel>
+</rss>
